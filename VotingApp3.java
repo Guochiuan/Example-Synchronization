@@ -23,3 +23,4 @@ public final class VotingApp3 {
     System.out.println(votes);
   }
 }
+
