@@ -1,7 +1,7 @@
 import java.util.*;
 import java.util.concurrent.*;
 
-public final class VotingApp {
+public final class VotingApp3 {
   public static void main(String[] args) throws Exception {
 
     ExecutorService executor = Executors.newFixedThreadPool(12);
